@@ -1,2 +1,2 @@
-# hello-world
-bell‘s first git
+# new start 
+forget lol,become a developer,next year find a better job.
